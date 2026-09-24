@@ -1,0 +1,5 @@
+# Ignore local system files from Mac and Windows
+.DS_Store
+Thumbs.db
+.vscode/
+
